@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://crypto-tracker-app-git-main-dorcastunmise.vercel.app/">
+  <a href="https://crypto-tracker-app-git-main-dorcastunmise.vercel.app/](https://crypto-tracker-gules-tau.vercel.app/">
     <img width="400" height="300" src="./public/Screenshot (1).png"/>  
     <img width="400" height="300" src="./public/Screenshot (2).png"/>  
   </a>
@@ -44,7 +44,7 @@ You should see the app running locally with live reload on code changes.
 
   3. Copy and paste content of code file and folders into the project folder
 
-     ## OR 👇🏻👇🏼👇🏽👇🏾👇🏿
+     ## OR 
 
 Clone or Download the repository using:
     <pre>git clone https://github.com/Dorcastunmise/crypto_tracker </pre>
